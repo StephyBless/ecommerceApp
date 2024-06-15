@@ -1,0 +1,101 @@
+[{
+    "name": "EAT THAT FROG",
+    "price": 25.67,
+    "description": "21 great ways to stop procastination and get more done in less time.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Motivation",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "ATOMIC HABITS",
+    "price": 18.32,
+    "description": "The life changing phenominal theories of habit stacking.",
+    "ratings": 3.5,
+    "images": [
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Science",
+    "seller": "Flipkart",
+    "stock": 9
+  },
+  {
+    "name": "HARRY PORTER",
+    "price": 44.57,
+    "description": "A series of seventy fantastic novels.",
+    "ratings": 2,
+    "images": [
+      {
+        "image": "/images/products/3.jpg"
+      }
+    ],
+    "category": "Fiction",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "RICH DAD POOR DAD",
+    "price": 25.45,
+    "description": "Shape yours thoughts about money and investment.",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/6.jpg"
+      }
+    ],
+    "category": "Productivity",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "WINGS OF FIRE",
+    "price": 32.32,
+    "description": "Auto-biography about the Missle man of India.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/7.jpg"
+      }
+    ],
+    "category": "Motivation",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "SOMETHING I NEVER TOLD YOU",
+    "price": 15.46,
+    "description": "When in love that costs lifetime of togetherness.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/4.jpg"
+      }
+    ],
+    "category": "Romantic",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "GHOST OF THE SILENT HILLS",
+    "price": 16.12,
+    "description": "Horror for young adults about true hunting.",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/5.jpg"
+      }
+    ],
+    "category": "Horror",
+    "seller": "Ebay",
+    "stock": 6
+  }]
